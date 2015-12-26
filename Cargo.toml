@@ -1,0 +1,6 @@
+[package]
+name = "nu-lang"
+version = "0.1.0"
+authors = ["Dennis Runz <dennis.runz@gmx.de>"]
+
+[dependencies]
