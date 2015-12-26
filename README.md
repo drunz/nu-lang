@@ -1,0 +1,2 @@
+# nu-lang
+Nu Project
